@@ -1,0 +1,35 @@
+{
+  "name": "project_a",
+  "version": "1.0.0",
+  "description": "Project A",
+  "keywords": [],
+  "devDependencies": {
+    "copy-webpack-plugin": "^9.0.1",
+    "expose-loader": "3.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "ts-loader": "9.2.5",
+    "typescript": "4.3.5",
+    "webpack": "5.50.0",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.5.0"
+  },
+  "dependencies": {
+    "phaser": "3.55.2"
+  },
+  "scripts": {
+    "dev": "webpack serve --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:maoserr/project_a.git"
+  },
+  "author": {
+    "name": "Mao Yu",
+    "email": "maoserr@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maoserr/project_a/issues"
+  },
+  "homepage": "https://github.com/maoserr/project_a"
+}
